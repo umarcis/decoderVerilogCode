@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/Umar/Decoder/Decoder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/Umar/Decoder/Decoder.srcs/sim_1/new/DecoderTest.v,1669295990,verilog,,,,DecoderTest,,,,,,,,
+C:/Users/Umar/Decoder/Decoder.srcs/sources_1/new/Decoder.v,1669293646,verilog,,C:/Users/Umar/Decoder/Decoder.srcs/sources_1/new/ThreeToEight_decoder.v,,Decoder,,,,,,,,
+C:/Users/Umar/Decoder/Decoder.srcs/sources_1/new/ThreeToEight_decoder.v,1669295492,verilog,,C:/Users/Umar/Decoder/Decoder.srcs/sim_1/new/DecoderTest.v,,ThreeToEight_decoder,,,,,,,,
